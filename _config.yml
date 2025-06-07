@@ -1,9 +1,8 @@
-title: My Docs Site
-description: Simple documentation with dark theme
+title: DEA hands-on Training Documentation
+description: Living Planet Symposium 2025, Vienna, Austria
 theme: minima
 
 # Enable dark mode
 minima:
   skin: dark
 
-# Optional: Enable Google Analytics, social links, etc.
