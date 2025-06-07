@@ -1,7 +1,9 @@
-remote_theme: jekyll/minima
+# Do **not** use: theme: minima
+:contentReference[oaicite:2]{index=2}
+
+plugins:
+  - :contentReference[oaicite:3]{index=3}
 
 minima:
   skin: dark
-
-plugins:
-  - jekyll-remote-theme
+  # :contentReference[oaicite:4]{index=4}
