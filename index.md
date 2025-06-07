@@ -39,4 +39,4 @@ By the end of the session, attendees will understand how DEA can be used to pres
 ## Training Material 
 
 - [Download Training Programme](DEA_hands-on_training_programme.pdf)
-- [Access package](package)
+- [Access package](package/)
