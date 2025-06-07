@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: DEA Hands-on Training
+---
 
 # <span style="color:#EE2A87">DEA Hands-on Training </span>
 Living planet Symposium 2025
