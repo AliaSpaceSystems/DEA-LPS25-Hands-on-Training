@@ -32,7 +32,7 @@ The core of the training will focus on hands-on story creation, where participan
 - <b>Creating maps, graphs, and media-rich visualisations</b>.<br>
 - <b>Combining data-driven content with textual annotations</b>.
 
-<br>
+<br><br>
 By the end of the session, attendees will understand <b>how DEA can be used to present scientific results, support decision-making processes, show effects of extreme events and explain environmental challenges at different scales, from global strategies to local adaptation plans.</b> They will leave with practical skills to use the DEA service and turn their own data and findings into compelling, interactive stories.
 </div>
 
