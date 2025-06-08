@@ -1,8 +1,21 @@
-:contentReference[oaicite:2]{index=2}
+#:contentReference[oaicite:2]{index=2}
 
+#plugins:
+#  - : contentReference[oaicite:3]{index=3}
+
+#minima:
+#  skin: dark
+
+title: DEA-LPS25 Hands-on Training
+description: Programme and package
+
+remote_theme: jekyll/minima
 plugins:
-  - :contentReference[oaicite:3]{index=3}
+  - jekyll-remote-theme
 
 minima:
   skin: dark
-  
+
+# Optional customizations
+# url: "https://aliaspace.systems"
+# baseurl: "/DEA-LPS25-Hands-on-Training"
