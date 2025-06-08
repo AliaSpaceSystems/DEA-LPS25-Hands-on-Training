@@ -19,22 +19,22 @@ From Data to Narrative</span>
 
 ![alt text](dea-gallery-crop.png "DEA")
 
-
-This hands-on training will guide participants through the creation of impactful stories using **[DEA](https://dea.destine.eu/web), a Data Visualization and Interactive Storytelling Service**.
+<div style="text-align: justify">
+<b>This hands-on training will guide participants through the creation of impactful stories using <a href="https://dea.destine.eu/web">DEA</a>, a Data Visualization and Interactive Storytelling Service.</b>
 DEA supports users in presenting environmental and climate information in a clear and engaging way.
-<br>
-The session will introduce DEA, its role within Earth Observation and Climate Change initiatives, and the portfolio of ready-to-use datasets it offers, including climate projections, reanalysis datasets like ERA5, and real-time forecasts data from ECMWF and Copernicus services.
-<br>
-Participants will also learn how to enrich their stories by adding external content from researches, local studies, or custom analyses. The presenter will demonstrate how to prepare and process external content — such as maps, charts, or videos generated from satellite-based data or socio-economic statistics — using complementary tools and how to integrate these elements into DEA to enhance the final narrative.
-<br>
-The core of the training will focus on hands-on story creation, where participants will practice step-by-step:
-- Selecting relevant datasets and defining the narrative angle.
-- Creating maps, graphs, and media-rich visualisations.
-- Combining data-driven content with textual annotations.
+<br><br>
+The session will introduce DEA, its role within Earth Observation and Climate Change initiatives, and the <b>portfolio of ready-to-use datasets</b> it offers, including climate projections, reanalysis datasets like ERA5, and real-time forecasts data from ECMWF and Copernicus services.
+<br><br>
+Participants will also learn how to enrich their stories by adding external content from researches, local studies, or custom analyses. The presenter will demonstrate <b>how to prepare and process external content</b> — such as maps, charts, or videos generated from satellite-based data or socio-economic statistics — using complementary tools and how to integrate these elements into DEA to enhance the final narrative.
+<br><br>
+The core of the training will focus on hands-on story creation, where participants will practice step-by-step:<br><br>
+- <b>Selecting relevant datasets and defining the narrative angle</b>.<br>
+- <b>Creating maps, graphs, and media-rich visualisations</b>.<br>
+- <b>Combining data-driven content with textual annotations</b>.
 
 <br>
-By the end of the session, attendees will understand how DEA can be used to present scientific results, support decision-making processes, show effects of extreme events and explain environmental challenges at different scales, from global strategies to local adaptation plans. They will leave with practical skills to use the DEA service and turn their own data and findings into compelling, interactive stories.
-
+By the end of the session, attendees will understand <b>how DEA can be used to present scientific results, support decision-making processes, show effects of extreme events and explain environmental challenges at different scales, from global strategies to local adaptation plans.</b> They will leave with practical skills to use the DEA service and turn their own data and findings into compelling, interactive stories.
+</div>
 
 ## Training Material 
 
