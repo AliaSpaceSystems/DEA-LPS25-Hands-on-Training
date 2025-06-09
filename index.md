@@ -43,5 +43,5 @@ By the end of the session, attendees will understand <b>how DEA can be used to p
 - [Download Training Programme](DEA_hands-on_training_programme.pdf)
 
 **Download Package Archive**
-- [package.zip](https://drive.google.com/file/d/1xOLS6q5O6EeFYXO2mXZgfEkAtdu5QXh-/view?usp=sharing)
+- [package.zip](https://drive.google.com/file/d/1HrpVNUucXBGltH_5qiy7EGNy-XCcHVkU/view?usp=sharing)
 
